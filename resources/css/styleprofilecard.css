@@ -1,0 +1,41 @@
+body{
+    background-color: #4f4d4d;
+   
+}
+
+
+section{
+    width: 20rem;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+}
+
+.skills{
+    background-color: #413e3e;
+}
+
+html{
+    font-size: 15px;
+}
+
+.personal{
+    width: 12rem;
+}
+
+.personal img{
+    width: 12rem;
+    display: block;
+    margin: auto;
+}
+
+h1{
+    font: 10;
+    height: auto;
+
+}
+
+li{
+    list-style: none;
+}

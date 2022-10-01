@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+header{
+   background-image: url('../../resources/images/pattern1.jpeg');
+   width: auto;
+   height: 120px;
+}
+
+h1{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    margin: 0;
+    text-align: center;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: MediumSpringGreen;
+
+}
+
+.price{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+
+}
+
